@@ -2,7 +2,7 @@
   "name": "Mis Hábitos",
   "short_name": "Hábitos",
   "description": "Tracker diario de hábitos con bitácora y dashboard mensual",
-  "start_url": "/index.html",
+  "start_url": "/Habitos/index.html",
   "display": "standalone",
   "background_color": "#0f0f12",
   "theme_color": "#0f0f12",
